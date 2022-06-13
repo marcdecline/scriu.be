@@ -2,8 +2,6 @@
 
 <a href="https://scriu.be" target="_blank">scriu.be</a> is a sleek and modern typing test website. it supports many custom themes
 
-![typings.gg](img/typings-screen-shot.png)
-
 ## theme
 
 type the theme code for example `dracula` in the text box then hit [ windows: <kbd>alt</kbd> + <kbd>t</kbd> ], [ mac: <kbd>cmd</kbd> + <kbd>ctrl</kbd> + <kbd>t</kbd> ], [ linux: <kbd>super</kbd> + <kbd>ctrl</kbd> + <kbd>t</kbd> or <kbd>alt</kbd> + <kbd>t</kbd> ]
